@@ -20,7 +20,7 @@
         <provider
             android:authorities="com.gulci.notki.notesprovider"
             android:name=".NotesProvider"
-            android:export="false"/>
+            android:exported="false"/>
         
     </application>
 
